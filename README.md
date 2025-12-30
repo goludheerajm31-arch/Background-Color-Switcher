@@ -36,4 +36,10 @@ This project is designed to practice **DOM manipulation**, **event handling**, a
 ---
 
 ## 📂 Project Structure
+color-change/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
+
 
